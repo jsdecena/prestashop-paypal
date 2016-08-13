@@ -1,11 +1,13 @@
-#Basemodule
+#Paypal module for prestashop
 
-####Basemodule is my barebone goto module.
+####WIP prestashop module for paypal
 
 ###How to use this:
 
-- Clone this repo in your prestashop module directory.
+- You need to install the Paypal SDK via composer.
 
-- Install the module.
+- Run this on your root dir `composer require paypal/rest-api-sdk-php`
+
+- Then clone this repo in your prestashop module directory.
 
 - Enjoy!
